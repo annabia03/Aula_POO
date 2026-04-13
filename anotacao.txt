@@ -1,0 +1,6 @@
+# Instaciar - criar uma cópia
+# cliente1 = Cliente("Relampago Marquinhos", 12345678900, "Salário", 1234, 0, 0)
+
+# cliente2 = Cliente("Mano brow", 99876543211, "Corrente", 987, 1, 0)
+
+# print(cliente1)
